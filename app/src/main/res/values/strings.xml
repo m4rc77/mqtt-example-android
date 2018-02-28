@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MQTT-Sensor-App</string>
+    <string name="data_info">This app acts as MQTT Light sensor</string>
+    <string name="clear">clear output</string>
+    <string name="selected_sensor_is">Selected sensor is</string>
+    <string name="selected_sensor_data_is">Selected sensor data is</string>
+</resources>
